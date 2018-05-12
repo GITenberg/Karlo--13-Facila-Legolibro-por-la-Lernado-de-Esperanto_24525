@@ -1,0 +1,32 @@
+_repo: Karlo--13-Facila-Legolibro-por-la-Lernado-de-Esperanto_24525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Privat, Edmond
+    aliases:
+    - Privat, Edmond Théophil
+    - Privat, Edmond Theophil
+    birthdate: 1889
+    deathdate: 1962
+    gutenberg_agent_id: '26554'
+    url: http://www.gutenberg.org/2009/agents/26554
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Privat
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24525'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Esperanto'
+- !lcsh 'Esperanto -- Readers'
+title: "Karlo\r\nFacila Legolibro por la Lernado de Esperanto"
+url: http://www.gutenberg.org/ebooks/24525
